@@ -1,6 +1,8 @@
 require 'colorize'
 
 
+###EDIT B3
+
 def directions
 puts ""
 puts <<PARAGRAPH
