@@ -1,5 +1,7 @@
 Git Commands Cheatsheet
 
+#### EDITED
+
 git init initializes a git repository
 Saving Changes
 
